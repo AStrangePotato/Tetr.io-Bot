@@ -11,8 +11,12 @@
 - **Easy Setup**: Low-hassle setup with minimal dependencies and no need to build/compile files yourself.
 
 
+https://github.com/user-attachments/assets/a0071b48-5b61-449f-a2d7-505156166dd2
+
+
+
 ## 🚀 **Video Demo + Setup Instructions**
-[![Watch the demo](http://img.youtube.com/vi/Bm9AEgAsgc8/0.jpg)](https://www.youtube.com/watch?v=7m_bH6ot5VI "Teapot Bot Demo")
+
 
 ## 📦 **Quickstart Guide**
 1. **Download and Apply Skin**  
