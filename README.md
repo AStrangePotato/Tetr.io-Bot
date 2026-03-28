@@ -11,11 +11,10 @@
 - **Easy Setup**: Low-hassle setup with minimal dependencies and no need to build/compile files yourself.
 
 
+## 🚀 **Video Demo + Setup Instructions**
+
 https://github.com/user-attachments/assets/a0071b48-5b61-449f-a2d7-505156166dd2
 
-
-
-## 🚀 **Video Demo + Setup Instructions**
 
 
 ## 📦 **Quickstart Guide**
